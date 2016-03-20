@@ -561,4 +561,6 @@ content:  #!Dictionary<Int32,String>
     788: "Lost Axe/0/-300/Quest/Robin's been looking everywhere for it." #!String
     789: "Lucky Purple Shorts/0/-300/Quest/Better not inspect these too closely." #!String
     790: "Berry Basket/0/-300/Quest/The fibers are stained with berry juice." #!String
+    
+    791: "Sugar Cane/25/-300/Basic -75/The building blocks of sweetness! Can abe chewed on or processed into poweder" #!String
 
